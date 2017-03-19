@@ -1,4 +1,4 @@
-##Medtronic Minimed 722 Insulin Pump Teardown
+## Medtronic Minimed 722 Insulin Pump Teardown
 
 This repo is meant to aid in understanding how Medtronic insulin pump products work. The ultimate goal is to read older firmware versions out of pumps and overwrite newer firmware versions on devices within the same model line. This is being done to reenable certain features that have been removed from newer firmware versions.
 
@@ -16,6 +16,14 @@ If held with the LCD screen facing the viewer:
 * The back of the LCD screen (photo 2) snaps into the front of the middle board (photo 3).
 * The back of the middle board (photo 4) snaps into the front of the motor board (photo 5)
 * The back of the motor board (photo 6) snaps into the back of the test point interface board (photo 7).
+
+### Datasheets
+
+The following chips have been identified in the device and the datasheets have been posted:
+
+* Cypress 8-Mbit MoBL Static RAM (CY62157DV30)
+* Renesas Technology H8/3067 (H8-3067)
+* Microchip 8-bit CMOS Microcontroller (PIC16C77)
 
 ### Key Strings
 
