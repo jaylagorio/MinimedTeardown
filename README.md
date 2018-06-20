@@ -25,6 +25,13 @@ The following chips have been identified in the device and the datasheets have b
 * Renesas Technology H8/3067 (H8-3067)
 * Microchip 8-bit CMOS Microcontroller (PIC16C77)
 
+(below pulled from an MMT-512NA)
+* NanoAmp 2Mb Ultra-Low Power Asynchronous CMOS SRAM (N02L163WC2A) (an alternative to the Cypress CY62157DV30)
+* AMD 8 Megabit (1 M x 8-Bit/512 K x 16-Bit) CMOS 3.0 Volt-only Boot Sector Flash Memory(Am29LV800B)
+* Microchip 8-Bit CMOS Microcontrollers with A/D Converter (PIC16C63A)
+* Sipex Electroluminescent Lamp Driver High Drive Capability for Low Voltage Applications (SP4428)
+* Maxim Regulated 5V Charge-Pump DC-DC Converter (MAX619)
+
 ### Key Strings
 
 The following strings appear on the chips in the device and are reproduced here for search engine indexing:
